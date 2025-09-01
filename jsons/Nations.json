@@ -1,38 +1,38 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "France",
+		"leaderName": "Marie Antoinette",
+		"adjective": ["French"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Behold Marie Antoinette, Queen of France, whose reign saw both the glittering heights of Versailles and the brewing tensions that would shake the nation to its core. Renowned for her patronage of the arts and refinement of courtly culture, she navigated the delicate politics of the French monarchy in a time of great upheaval, leaving a legacy of elegance and sophistication that still echoes through history.",
+		"startIntroPart2": "Oh noble and illustrious queen, will you once again guide the Kingdom of France through the trials of diplomacy and governance? Will you elevate your people with the splendor of your court, the richness of your culture, and the wisdom of your decisions? Can you build a civilization that will stand the test of time?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Must we resort to arms? Very well, the crown commands it!",
+		"attacked": How dare you threaten my realm! France shall not bow.",
+		"defeated": "This is most regrettable…yet history will remember our elegance.",
+		"introduction": "I am Marie Antoinette, Queen of France. Let diplomacy and refinement guide our relations.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Bonjour, my friend.",
+		"neutralLetsHearIt": ["Pray, continue.","Do share your thoughts.","I am listening."],
+		"neutralNo": ["I cannot consent to this.","That is unacceptable.","I must decline."],
+		"neutralYes": ["Très bien.","That is agreeable.","I accept."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "You vex me with your presence.",
+		"hateLetsHearIt": ["Speak, if you must.","Make it quick.","State your business."],
+		"hateNo": ["Impossible!","I refuse entirely.","That shall not happen."],
+		"hateYes": ["Very well, if you insist.","I suppose that will suffice.","It shall be so."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Finally, some tranquility. Let us savor it.",
+		"tradeRequest": "We present this gift in the spirit of mutual prosperity.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [247,198,209],
+		"innerColor": [212,175,55],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": [ "Paris","Versailles","Lyon","Marseille","Bordeaux","Nice","Toulouse","Nantes","Strasbourg","Montpellier",
+            "Rennes","Dijon","Aix-en-Provence","Grenoble","Reims","Le Havre","Saint-Étienne","Toulon","Orléans","Tours",
+            "Clermont-Ferrand","Angers","Caen","Poitiers","Nancy","Metz","Rouen","Mulhouse","Perpignan","Besançon",
+            "Boulogne-sur-Mer","Avignon","La Rochelle","Bayonne","Chartres"]
 	}
 ]
